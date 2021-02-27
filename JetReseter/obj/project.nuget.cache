@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KeSl0q0rUQZ2XsgTvL1ETXoNIKOPfoZ7qEWOxQ/qz3xc0/w0Gw6gAIOOIs4FN8Ug/YXo7cAVg4IgF9XF0G9zDA==",
+  "success": true,
+  "projectFilePath": "D:\\Различные проекты\\JetReseter\\JetReseter\\JetReseter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IMAPERFORMANCEARTIST\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\IMAPERFORMANCEARTIST\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\IMAPERFORMANCEARTIST\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\IMAPERFORMANCEARTIST\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

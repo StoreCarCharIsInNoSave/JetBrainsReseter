@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JetReseter", "JetReseter\JetReseter.csproj", "{E93FD06E-D44D-469A-90BF-AD19F57CAC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E93FD06E-D44D-469A-90BF-AD19F57CAC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93FD06E-D44D-469A-90BF-AD19F57CAC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93FD06E-D44D-469A-90BF-AD19F57CAC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93FD06E-D44D-469A-90BF-AD19F57CAC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E0C40AA-605E-43A2-807B-5FE1A1BDD130}
+	EndGlobalSection
+EndGlobal
